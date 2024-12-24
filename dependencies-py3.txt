@@ -1,1 +1,4 @@
 # LIST YOUR PYTHON3 PACKAGES HERE
+numpy==1.23.5
+tqdm
+lib-dt-computer-vision==0.1.13
