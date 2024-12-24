@@ -2,3 +2,6 @@
 numpy==1.23.5
 tqdm
 lib-dt-computer-vision==0.1.13
+
+# might remove below
+lib-dt-state-estimation==0.0.9
